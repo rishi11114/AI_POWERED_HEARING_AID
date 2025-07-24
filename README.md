@@ -36,17 +36,4 @@ Use the following command to process a folder of audio files with the pretrained
 Bash
 
 $ python run_evaluation.py -i /path/to/input -o /path/for/processed -m ./pretrained_model/model.h5
-## Citing the DTLN Model
-If you use this model in your work, please cite the original paper:
 
-Code snippet
-
-@inproceedings{Westhausen2020,
-  author={Nils L. Westhausen and Bernd T. Meyer},
-  title={{Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression}},
-  year=2020,
-  booktitle={Proc. Interspeech 2020},
-  pages={2477--2481},
-  doi={10.21437/Interspeech.2020-2631},
-  url={http://dx.doi.org/10.21437/Interspeech.2020-2631}
-}
