@@ -22,7 +22,9 @@ hearing_aid_DTLN/
 │   ├── info_u.py          # (Unknown purpose, probably utilities)
 │   ├── test.py, te.py     # (Use-case testing or audio inspection)
 │   ├── modef.py           # (Probably model export/tflite helper)
+
 🧪 How to Use
+
 ✅ 1. Convert to 16kHz
 Convert clean and noise files to mono 16kHz WAVs.
 
